@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## Welcome to HaiPeng GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/QUSThaipeng/HaiPeng.GitHub.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ 苏海鹏 
+ 13256793872 	 	1819986403@qq.com
+	
+ 男|20 岁 (2001/08/02)|现居住济南|1年工作经验 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 工作经验
+2020/12-2021/6	Java开发工程师 |软件开发外包部 
+济南易途信息科技有限公司 [6个月] 
+计算机软件|创业公司
+工作描述：	合作参与了优选房项目开发，负责后端服务器SpringBoot开发，Mysql数据库的运行以及优化
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 项目经验
 
-```markdown
-Syntax highlighted code block
+2021/5-2021/8	基于IOT物联网平台的环境监测系统 
+所属公司：	济南易途信息科技有限公司
 
-# Header 1
-## Header 2
-### Header 3
+项目描述：	该项目通过IOT物联网平台，对环境监测数据进行分析处理，以及优化分入数据库，以及后台权限的分配处理
+	，字典后台管理系统的搭建
 
-- Bulleted
-- List
+责任描述：	本人负责后台工作的全部开发与测试
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+2020/12-2021/1	优选房 
+所属公司：	济南易途信息科技有限公司
 
-[Link](url) and ![Image](src)
-```
+项目描述：	该项目面为企业售房系统，负责后台的全部开发与测试
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QUSThaipeng/HaiPeng.GitHub.com/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
